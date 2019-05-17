@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;abc&apos; in &apos;code.bankClass.main(...)&apos; to &apos;thisBank&apos;&#x0D;&#x0A;- Original project: &apos;DPAssign3ImpAss2&apos;&#x0D;&#x0A;- Original element: &apos;code.bankClass.main(String[]).abc&apos;&#x0D;&#x0A;- Renamed element: &apos;abc&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;abc&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;code{bankClass.java[bankClass~main~\[QString;@abc!264!293!273!275!Qaccounts;!0!false" name="thisBank" references="true" stamp="1556245098631" version="1.0"/>
+</session>

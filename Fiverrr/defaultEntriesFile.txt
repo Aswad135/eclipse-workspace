@@ -1,0 +1,1 @@
+Entry [entryAmount=24000, entryDate=Fri May 03 20:55:05 PKT 2019, entryType=user]
