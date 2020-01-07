@@ -6,15 +6,7 @@ public class infixToPostfix {
 	private stack<Character> s1;
 	private String postFixString;
 
-	public static void main(String[] args) {
-		infixToPostfix obj = new infixToPostfix();
-		String exression = "87+7*5(5+6)";
-		System.out.println("Input String = " + exression);
-		String expressionInPostfix = obj.doIt(exression);
-		System.out.println("Processed String = " + expressionInPostfix);
-		System.out.println("Answer = " + obj.solve());
-	}
-
+	
 	public infixToPostfix() {
 		s1 = new stack<Character>();
 		postFixString = "";
